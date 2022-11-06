@@ -1,0 +1,1622 @@
+﻿Log file open, 10/22/22 18:24:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=22040)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CowProject
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/UE5 Projects/CowProject/CowProject.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="34e0e5be44d6259004acc7a3687e2e6b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.573641
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5EB52E0343D0EC14B870E5B8BD12AC4F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) RX Vega 10 Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine5/UE5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.22-16.24.38:110][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.22-16.24.38:110][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.22-16.24.38:110][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.22-16.24.38:110][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.22-16.24.38:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.22-16.24.38:135][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.22-16.24.38:135][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.22-16.24.38:136][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.22-16.24.38:143][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.22-16.24.38:608][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.22-16.24.38:608][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.22-16.24.40:777][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.22-16.24.40:777][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 7104MB of shared system memory, 2 output[s]
+[2022.10.22-16.24.40:879][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) RX Vega 10 Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.10.22-16.24.40:879][  0]LogD3D12RHI: Adapter has 2033MB of dedicated video memory, 0MB of dedicated system memory, and 7104MB of shared system memory, 0 output[s]
+[2022.10.22-16.24.40:893][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.22-16.24.40:893][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7104MB of shared system memory, 0 output[s]
+[2022.10.22-16.24.40:921][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.22-16.24.40:921][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.22-16.24.40:921][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.22-16.24.40:921][  0]LogHAL: Display: Platform has ~ 14 GB [14900183040 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.22-16.24.40:921][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.22-16.24.40:921][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.22-16.24.40:921][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.22-16.24.40:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.22-16.24.40:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE5 Projects/CowProject/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.22-16.24.40:922][  0]LogInit: Computer: LAPTOP-HKGUIB3A
+[2022.10.22-16.24.40:922][  0]LogInit: User: JoshuaVeydarier
+[2022.10.22-16.24.40:922][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.22-16.24.40:922][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.22-16.24.40:922][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2022.10.22-16.24.40:922][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.22-16.24.40:922][  0]LogMemory: Process Physical Memory: 263.38 MB used, 277.45 MB peak
+[2022.10.22-16.24.40:922][  0]LogMemory: Process Virtual Memory: 206.24 MB used, 206.24 MB peak
+[2022.10.22-16.24.40:922][  0]LogMemory: Physical Memory: 10370.03 MB used,  3839.89 MB free, 14209.92 MB total
+[2022.10.22-16.24.40:922][  0]LogMemory: Virtual Memory: 17875.89 MB used,  3002.19 MB free, 20878.08 MB total
+[2022.10.22-16.24.40:922][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.22-16.24.40:939][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.22-16.24.40:977][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.22-16.24.40:978][  0]LogInit: Using OS detected language (en-US).
+[2022.10.22-16.24.40:978][  0]LogInit: Using OS detected locale (en-GB).
+[2022.10.22-16.24.40:981][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.22-16.24.41:229][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.22-16.24.41:255][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.22-16.24.41:255][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.22-16.24.41:255][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.10.22-16.24.41:255][  0]LogWindowsTextInputMethodSystem:   - English (Malaysia) - (Keyboard).
+[2022.10.22-16.24.41:255][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.22-16.24.41:302][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.22-16.24.41:302][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.22-16.24.41:836][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.22-16.24.42:413][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.22-16.24.42:413][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.22-16.24.42:807][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.22-16.24.43:231][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.22-16.24.43:248][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.22-16.24.43:304][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.22-16.24.43:442][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.22-16.24.43:442][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.22-16.24.43:663][  0]LogD3D12RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.22-16.24.43:663][  0]LogWindows: Attached monitors:
+[2022.10.22-16.24.43:663][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.22-16.24.43:663][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY5'
+[2022.10.22-16.24.43:663][  0]LogWindows: Found 2 attached monitors.
+[2022.10.22-16.24.43:663][  0]LogWindows: EnumDisplayDevices:
+[2022.10.22-16.24.43:663][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.22-16.24.43:664][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.22-16.24.43:665][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.22-16.24.43:668][  0]LogWindows:    3. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.22-16.24.43:669][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:1), name: '\\.\DISPLAY5'
+[2022.10.22-16.24.43:670][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.10.22-16.24.43:670][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.10.22-16.24.43:670][  0]LogD3D12RHI:   Driver Version: 522.30 (internal:31.0.15.2230, unified:522.30)
+[2022.10.22-16.24.43:670][  0]LogD3D12RHI:      Driver Date: 10-12-2022
+[2022.10.22-16.24.43:670][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.10.22-16.24.43:670][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.22-16.24.43:670][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.22-16.24.44:781][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.22-16.24.44:796][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UE5 Projects/CowProject/CowProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 Projects/CowProject/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 Projects/CowProject/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 Projects/CowProject/CowProject.uproject"  -platform=all'
+[2022.10.22-16.24.44:796][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UnrealEngine5/UE5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE5 Projects/CowProject/CowProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 Projects/CowProject/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 Projects/CowProject/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 Projects/CowProject/CowProject.uproject"  -platform=all" ]
+[2022.10.22-16.24.44:857][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.22-16.24.44:877][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.22-16.24.44:877][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.22-16.24.44:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.22-16.24.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.22-16.24.44:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.22-16.24.44:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.22-16.24.44:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.22-16.24.44:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.22-16.24.44:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.22-16.24.44:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.22-16.24.44:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.22-16.24.44:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.22-16.24.44:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.22-16.24.44:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.22-16.24.44:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.22-16.24.44:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.22-16.24.44:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.22-16.24.44:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.22-16.24.44:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.22-16.24.44:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.22-16.24.44:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.22-16.24.44:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.22-16.24.44:995][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.22-16.24.45:018][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.22-16.24.45:026][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.22-16.24.45:026][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.22-16.24.45:026][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.22-16.24.45:026][  0]LogTargetPlatformManager:   PCM
+[2022.10.22-16.24.45:034][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.22-16.24.45:034][  0]LogTargetPlatformManager:   BINKA
+[2022.10.22-16.24.45:034][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.22-16.24.45:034][  0]LogTargetPlatformManager:   OGG
+[2022.10.22-16.24.45:034][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.22-16.24.45:034][  0]LogTargetPlatformManager:   OPUS
+[2022.10.22-16.24.45:118][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.22-16.24.45:139][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.22-16.24.45:139][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.22-16.24.45:149][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.22-16.24.45:149][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.22-16.24.45:149][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.22-16.24.45:149][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.22-16.24.45:149][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.22-16.24.45:149][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.22-16.24.45:149][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.22-16.24.45:149][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.22-16.24.45:150][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UE5 Projects/CowProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.22-16.24.45:241][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.22-16.24.45:242][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UE5 Projects/CowProject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.22-16.24.45:271][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.22-16.24.45:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE5 Projects/CowProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.22-16.24.45:276][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.22-16.24.45:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE5 Projects/CowProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.22-16.24.45:276][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.22-16.24.45:302][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.22-16.24.45:302][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.22-16.24.45:302][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.22-16.24.45:321][  0]LogDerivedDataCache: Speed tests for C:/Users/Joshua Veydarier/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.10.22-16.24.45:321][  0]LogDerivedDataCache: Display: Performance to C:/Users/Joshua Veydarier/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.28ms. RandomReadSpeed=239.26MBs, RandomWriteSpeed=81.26MBs. Assigned SpeedClass 'Local'
+[2022.10.22-16.24.45:322][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joshua Veydarier/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.22-16.24.45:322][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.22-16.24.45:322][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.22-16.24.45:331][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.22-16.24.45:331][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.22-16.24.45:331][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../../UE5 Projects/CowProject/Intermediate/Shaders/WorkingDirectory/17524/).
+[2022.10.22-16.24.45:332][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joshua Veydarier/AppData/Local/Temp/UnrealShaderWorkingDir/2FE265DC491860E3E2B972A21AF69A67/'.
+[2022.10.22-16.24.45:333][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.22-16.24.45:333][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.10.22-16.24.47:985][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.22-16.24.47:986][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.22-16.24.48:066][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2022.10.22-16.24.48:081][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.22-16.24.48:631][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.22-16.24.48:632][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.22-16.24.49:156][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.22-16.24.49:157][  0]LogDeviceProfileManager: Active device profile: [000007C066416740][000007C05BF40000 50] WindowsEditor
+[2022.10.22-16.24.49:157][  0]LogDeviceProfileManager: Profiles: [000007C066416200][000007C05BE9A000 50] Windows, [000007C066416740][000007C05BF40000 50] WindowsEditor, [000007C066412F40][000007C05BF0A000 50] WindowsServer, [000007C066414D00][000007C049A7C800 50] WindowsClient, [000007C066416900][000007C066670000 50] IOS, [000007C066412D80][000007C066675000 50] iPadAir2, [000007C066416E40][000007C06667A000 50] IPadPro, [000007C0664171C0][000007C066677800 50] iPadAir3, [000007C066415CC0][000007C06667C800 50] iPadAir4, [000007C066412140][000007C05BF02800 50] iPadMini4, [000007C066414B40][000007C0666B0000 50] iPadMini5, [000007C066417A80][000007C0666B5000 50] iPadMini6, [000007C066419840][000007C0666BC800 50] iPhone6S, [000007C066419BC0][000007C0666BA000 50] iPhone7, [000007C0664194C0][000007C0666B7800 50] iPodTouch7, [000007C066418F80][000007C066672800 50] iPhone6SPlus, [000007C066417000][000007C0666C0000 50] iPhone7Plus, [000007C0664178C0][000007C0666C5000 50] iPhoneSE, [000007C066418180][000007C0666C7800 50] iPhone8, [000007C066411F80][000007C0666CA000 50] iPhone8Plus, [000007C0664147C0][000007C0666CC800 50] iPhoneX, [000007C0664155C0][000007C0666B2800 50] iPhoneXS, [000007C066418DC0][000007C0666D0000 50] iPhoneXSMax, [000007C066417540][000007C0666D5000 50] iPhoneXR, [000007C0664139C0][000007C0666D7800 50] iPhone11, [000007C066417C40][000007C0666DA000 50] iPhone11Pro, [000007C066414600][000007C0666DC800 50] iPhone11ProMax, [000007C066414440][000007C0666C2800 50] iPhoneSE2, [000007C0664132C0][000007C066680000 50] iPhone12Mini, [000007C066415B00][000007C066685000 50] iPhone12, [000007C066418A40][000007C066687800 50] iPhone12Pro, [000007C0664124C0][000007C06668A000 50] iPhone12ProMax, [000007C066411340][000007C06668C800 50] iPhone13Mini, [000007C066413800][000007C0666D2800 50] iPhone13, [000007C066417FC0][000007C0666E0000 50] iPhone13Pro, [000007C066416C80][000007C0666E5000 50] iPhone13ProMax, [000007C066419A00][000007C0666E7800 50] iPadPro105, [000007C066413B80][000007C0666EA000 50] iPadPro129, [000007C066418340][000007C0666EC800 50] iPadPro97, [000007C066412A00][000007C066682800 50] iPadPro2_129, [000007C066411180][000007C066700000 50] iPad5, [000007C066416AC0][000007C066705000 50] iPad6, [000007C066415780][000007C066707800 50] iPad7, [000007C066411DC0][000007C06670A000 50] iPad8, [000007C066411500][000007C06670C800 50] iPad9, [000007C066413480][000007C0666E2800 50] iPadPro11, [000007C066411C00][000007C066710000 50] iPadPro2_11, [000007C066419140][000007C066715000 50] iPadPro3_11, [000007C066419680][000007C066717800 50] iPadPro3_129, [000007C066416580][000007C06671A000 50] iPadPro4_129, [000007C066419300][000007C06671C800 50] iPadPro5_129, [000007C066413100][000007C066702800 50] AppleTV, [000007C066415400][000007C066720000 50] AppleTV4K, [000007C066412300][000007C066725000 50] TVOS, [000007C06641B980][000007C06672A000 50] Mac, [000007C06641B7C0][000007C066727800 50] MacEditor, [000007C066412840][000007C06672C800 50] MacClient, [000007C06641B280][000007C066712800 50] MacServer, [000007C06641C080][000007C066732800 50] Linux, [000007C06641C400][000007C066730000 50] LinuxEditor, [000007C06641AF00][000007C066737800 50] LinuxArm64Editor, [000007C06641C240][000007C06673A000 50] LinuxArm64, [000007C066413D40][000007C06673C800 50] LinuxClient, [000007C066415080][000007C066722800 50] LinuxArm64Client, [000007C066418C00][000007C066740000 50] LinuxServer, [000007C06641A480][000007C066745000 50] LinuxArm64Server, [000007C066418500][000007C066747800 50] Android, [000007C066419F40][000007C06674A000 50] Android_Preview_OpenGL, [000007C066412680][000007C06674C800 50] Android_Preview_Vulkan, [000007C06641AB80][000007C066735000 50] Android_Low, [000007C066417380][000007C066750000 50] Android_Mid, [000007C06641C780][000007C066755000 50] Android_High, [000007C06641BB40][000007C066757800 50] Android_Default, [000007C06641B0C0][000007C06675A000 50] Android_Adreno4xx, [000007C066413F00][000007C06675C800 50] Android_Adreno5xx_Low, [000007C066414980][000007C066742800 50] Android_Adreno5xx, [000007C06641A640][000007C066760000 50] Android_Adreno6xx, [000007C06641A100][000007C066765000 50] Android_Adreno6xx_Vulkan, [000007C06641AD40][000007C066767800 50] Android_Adreno7xx, [000007C066416040][000007C06676A000 50] Android_Adreno7xx_Vulkan, [000007C06641B600][000007C06676C800 50] Android_Mali_T6xx, [000007C066419D80][000007C066752800 50] Android_Mali_T7xx, [000007C066417E00][000007C066770000 50] Android_Mali_T8xx, [000007C06641A2C0][000007C066775000 50] Android_Mali_G71, [000007C06641A9C0][000007C066777800 50] Android_Mali_G72, [000007C06641D740][000007C06677A000 50] Android_Mali_G72_Vulkan, [000007C066414280][000007C06677C800 50] Android_Mali_G76, [000007C06641CE80][000007C066762800 50] Android_Mali_G76_Vulkan, [000007C066417700][000007C066780000 50] Android_Mali_G77, [000007C06641D900][000007C066785000 50] Android_Mali_G77_Vulkan, [000007C066415E80][000007C066787800 50] Android_Mali_G78, [000007C066415940][000007C06678A000 50] Android_Mali_G78_Vulkan, [000007C0664186C0][000007C06678C800 50] Android_Mali_G710, [000007C066414EC0][000007C066772800 50] Android_Mali_G710_Vulkan, [000007C06641E700][000007C066790000 50] Android_Xclipse_920, [000007C066413640][000007C066795000 50] Android_Xclipse_920_Vulkan, [000007C06641DE40][000007C066797800 50] Android_Vulkan_SM5, [000007C06641C5C0][000007C06679A000 50] Android_PowerVR_G6xxx, [000007C06641E8C0][000007C06679C800 50] Android_PowerVR_GT7xxx, [000007C06641D580][000007C066782800 50] Android_PowerVR_GE8xxx, [000007C06641E000][000007C0667A0000 50] Android_PowerVR_GM9xxx, [000007C06641C940][000007C0667A5000 50] Android_PowerVR_GM9xxx_Vulkan, [000007C06641F6C0][000007C0667A7800 50] Android_TegraK1, [000007C06641D3C0][000007C0667AA000 50] Android_Unknown_Vulkan, [000007C06641EE00][000007C0667AC800 50] Oculus_Quest, [000007C066415240][000007C066792800 50] Oculus_Quest2, [000007C06641F880][000007C0667B0000 50] HoloLens, 
+[2022.10.22-16.24.49:157][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.22-16.24.49:278][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.22-16.24.50:482][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.22-16.24.50:482][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.22-16.24.50:482][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.22-16.24.50:482][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.22-16.24.50:482][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.22-16.24.50:520][  0]LogNetVersion: CowProject 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 60953209)
+[2022.10.22-16.24.51:218][  0]LogSlate: Border
+[2022.10.22-16.24.51:218][  0]LogSlate: BreadcrumbButton
+[2022.10.22-16.24.51:218][  0]LogSlate: Default
+[2022.10.22-16.24.51:218][  0]LogSlate: Icons.Save
+[2022.10.22-16.24.51:218][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.22-16.24.51:218][  0]LogSlate: ListView
+[2022.10.22-16.24.51:218][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.22-16.24.51:218][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.22-16.24.51:218][  0]LogSlate: TableView.DarkRow
+[2022.10.22-16.24.51:218][  0]LogSlate: TableView.Row
+[2022.10.22-16.24.51:218][  0]LogSlate: TreeView
+[2022.10.22-16.24.51:877][  0]SourceControl: Source control is disabled
+[2022.10.22-16.24.52:058][  0]SourceControl: Source control is disabled
+[2022.10.22-16.24.52:058][  0]SourceControl: Source control is disabled
+[2022.10.22-16.24.52:731][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2022.10.22-16.24.52:732][  0]LogUObjectAllocator: 5780864 out of 0 bytes used by permanent object pool.
+[2022.10.22-16.24.52:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.22-16.24.54:683][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 96EB78E242C548530F18F8B4276A5A3C | Instance: 82C216864EEDFAC1F8498FA38EBC8274 (LAPTOP-HKGUIB3A-17524).
+[2022.10.22-16.24.54:753][  0]LogPython: Using Python 3.9.7
+[2022.10.22-16.24.56:437][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.22-16.24.56:451][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.22-16.24.56:644][  0]SourceControl: Source control is disabled
+[2022.10.22-16.24.56:651][  0]SourceControl: Source control is disabled
+[2022.10.22-16.24.56:675][  0]SourceControl: Source control is disabled
+[2022.10.22-16.24.56:695][  0]LogUProjectInfo: Found projects:
+[2022.10.22-16.24.58:606][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.22-16.24.58:760][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.22-16.24.58:809][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.22-16.24.58:809][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.22-16.24.59:038][  0]LogCollectionManager: Loaded 0 collections in 0.001128 seconds
+[2022.10.22-16.24.59:351][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/CowProject/Saved/Collections/' took 0.00s
+[2022.10.22-16.24.59:351][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/CowProject/Content/Developers/JoshuaVeydarier/Collections/' took 0.00s
+[2022.10.22-16.24.59:351][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/CowProject/Content/Collections/' took 0.00s
+[2022.10.22-16.24.59:351][  0]LogEngine: Initializing Engine...
+[2022.10.22-16.24.59:419][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.22-16.24.59:447][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.22-16.24.59:940][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.22-16.24.59:940][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-16.25.00:217][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-16.25.00:250][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.22-16.25.00:251][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.22-16.25.00:281][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.22-16.25.00:284][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.22-16.25.00:284][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.22-16.25.00:285][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.22-16.25.00:285][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.22-16.25.00:285][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-16.25.00:285][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-16.25.00:285][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-16.25.00:285][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-16.25.00:285][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-16.25.00:285][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-16.25.00:285][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-16.25.00:285][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-16.25.00:286][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-16.25.00:286][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-16.25.00:286][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-16.25.00:299][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-16.25.01:099][  0]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.10.22-16.25.01:100][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-16.25.01:107][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-16.25.01:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-16.25.01:108][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.22-16.25.01:108][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.22-16.25.01:110][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.22-16.25.01:110][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.22-16.25.01:110][  0]LogInit: FAudioDevice initialized.
+[2022.10.22-16.25.01:111][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.22-16.25.01:111][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.22-16.25.01:111][  0]LogInit: Texture streaming: Enabled
+[2022.10.22-16.25.01:153][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.22-16.25.01:169][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.22-16.25.01:195][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.22-16.25.01:207][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.22-16.25.01:207][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.22-16.25.41:442][  0]LogLiveCoding: Display: First instance in process group "UE_CowProject_0xcc82b7bf", spawning console
+[2022.10.22-16.25.41:442][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.22-16.25.41:442][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.22-16.25.41:673][  0]LogInit: Transaction tracking system initialized
+[2022.10.22-16.25.42:007][  0]BlueprintLog: New page: Editor Load
+[2022.10.22-16.25.42:241][  0]LocalizationService: Localization service is disabled
+[2022.10.22-16.25.42:330][  0]TimingProfiler: Initialize
+[2022.10.22-16.25.42:330][  0]TimingProfiler: OnSessionChanged
+[2022.10.22-16.25.42:330][  0]LoadingProfiler: Initialize
+[2022.10.22-16.25.42:330][  0]LoadingProfiler: OnSessionChanged
+[2022.10.22-16.25.42:330][  0]NetworkingProfiler: Initialize
+[2022.10.22-16.25.42:331][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.22-16.25.42:331][  0]MemoryProfiler: Initialize
+[2022.10.22-16.25.42:331][  0]MemoryProfiler: OnSessionChanged
+[2022.10.22-16.25.49:119][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 Projects/CowProject/Content/' took 0.03s
+[2022.10.22-16.25.49:119][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.22-16.25.49:207][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.22-16.25.49:212][  0]SourceControl: Source control is disabled
+[2022.10.22-16.25.49:212][  0]LogUnrealEdMisc: Loading editor; pre map load, took 74.882
+[2022.10.22-16.25.49:212][  0]Cmd: MAP LOAD FILE="../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-16.25.49:220][  0]LightingResults: New page: Lighting Build
+[2022.10.22-16.25.49:226][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-16.25.49:226][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.25.49:228][  0]MapCheck: New page: Map Check
+[2022.10.22-16.25.49:228][  0]LightingResults: New page: Lighting Build
+[2022.10.22-16.25.49:237][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-16.25.49:325][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.22-16.26.00:321][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.10.22-16.26.00:332][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-16.26.00:333][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.22-16.26.00:335][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.22-16.26.00:335][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.22-16.26.01:459][  0]LogWorldPartition: Display: WorldPartition initialize took 1.12 sec
+[2022.10.22-16.26.01:819][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-16.26.01:854][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.22-16.26.01:855][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-16.26.01:855][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.307ms to complete.
+[2022.10.22-16.26.01:855][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 12.643
+[2022.10.22-16.26.01:989][  0]LogUnrealEdMisc: Total Editor Startup Time, took 87.658
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: ================================================
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.22-16.26.01:989][  0]LogShaderCompilers: Display: ================================================
+[2022.10.22-16.26.02:814][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.02:815][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.22-16.26.03:359][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.26.03:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.26.03:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.26.03:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.26.05:159][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:159][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:187][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:187][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:220][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:220][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:280][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:280][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:343][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:343][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:351][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:351][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:364][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:364][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:381][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:382][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:496][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:496][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:519][  0]LogPakFile: Display: Mounted Pak file 'D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.22-16.26.05:519][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.22-16.26.05:528][  0]LogFeaturePack: Error: Error in Feature pack D:/UnrealEngine5/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.22-16.26.06:651][  0]LogSlate: Took 0.000555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.22-16.26.06:874][  0]LogSlate: Took 0.019179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.22-16.26.06:954][  0]LogSlate: Took 0.022764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.22-16.26.07:046][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.10.22-16.26.11:544][  0]LogStall: Startup...
+[2022.10.22-16.26.11:546][  0]LogStall: Startup complete.
+[2022.10.22-16.26.11:578][  0]LogLoad: (Engine Initialization) Total time: 97.25 seconds
+[2022.10.22-16.26.11:578][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.22-16.26.11:778][  0]LogAssetRegistry: Asset discovery search completed in 83.7150 seconds
+[2022.10.22-16.26.11:824][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.10.22-16.26.11:972][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.22-16.26.15:907][ 56]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.22-16.26.18:567][106]LogSlate: Took 0.024056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.22-16.26.27:485][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.22-16.26.27:746][523]Cmd: MAP LOAD FILE="../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ProjectMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-16.26.27:747][523]LightingResults: New page: Lighting Build
+[2022.10.22-16.26.27:747][523]LoadErrors: New page: Loading map: ProjectMap.umap
+[2022.10.22-16.26.28:017][523]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-16.26.28:018][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.26.28:063][523]MapCheck: New page: Map Check
+[2022.10.22-16.26.28:064][523]LightingResults: New page: Lighting Build
+[2022.10.22-16.26.28:091][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-16.26.28:189][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.22-16.26.34:406][523]LogAudio: Display: Audio Device (ID: 1) registered with world 'ProjectMap'.
+[2022.10.22-16.26.34:406][523]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-16.26.34:407][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-16.26.34:407][523]LogAIModule: Creating AISystem for world ProjectMap
+[2022.10.22-16.26.34:940][523]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-16.26.34:958][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.22-16.26.34:978][523]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-16.26.34:978][523]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2022.10.22-16.26.34:978][523]LogFileHelpers: Loading map 'ProjectMap' took 7.233
+[2022.10.22-16.26.34:979][523]LogSlate: Window 'Open Level' being destroyed
+[2022.10.22-16.26.46:060][791]LogDerivedDataCache: C:/Users/Joshua Veydarier/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.736 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-16.27.43:272][384]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (7.1 Surround Sound), InstanceID=1
+[2022.10.22-16.27.43:272][384]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13736
+[2022.10.22-16.27.43:606][384]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{18deab7c-caac-4f55-b023-b153b95ebace}, Name=Speakers (7.1 Surround Sound)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=137.63
+[2022.10.22-16.27.43:606][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.10.22-16.27.43:613][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.22-16.33.43:035][599]LogSlate: Took 0.028768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.22-16.39.02:394][208]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-16.39.44:484][333]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-16.40.45:116][513]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:051][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:052][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:053][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:054][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:055][ 49]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:098][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:099][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:115][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:116][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:117][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:118][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:119][ 50]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:262][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:262][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:262][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:263][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:264][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:265][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:266][ 55]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:318][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:319][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:320][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:321][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:322][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:323][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:323][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:323][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:323][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.45.41:323][ 56]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2022.10.22-16.46.06:700][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/ProjectMap" FILE="../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ProjectMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-16.46.06:736][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.22-16.46.06:815][637]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.007099 seconds
+[2022.10.22-16.46.07:227][637]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ProjectMap
+[2022.10.22-16.46.07:229][637]LogSavePackage: Moving '../../../../../../UE5 Projects/CowProject/Saved/ProjectMap4ED7E096413AA61170A3DEB29616110E.tmp' to '../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ProjectMap.umap'
+[2022.10.22-16.46.07:325][637]LogFileHelpers: No new changes to save!
+[2022.10.22-16.46.07:346][637]AssetCheck: New page: Asset Save: ProjectMap
+[2022.10.22-16.46.07:348][637]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ProjectMap.ProjectMap
+[2022.10.22-16.46.21:596][152]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-16.46.21:759][152]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.22-16.46.34:460][436]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.10.22-16.46.53:306][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-16.46.53:502][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-16.46.53:516][824]PIE: New page: PIE session: ProjectMap (22 Oct 2022, 20:46:53)
+[2022.10.22-16.46.53:555][824]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.22-16.46.53:577][824]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.22-16.46.53:578][824]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.46.53:731][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153526s)
+[2022.10.22-16.46.53:731][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ProjectMap.ProjectMap to /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap (0.154241s)
+[2022.10.22-16.46.53:731][824]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-16.46.53:740][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-16.46.53:741][824]LogAIModule: Creating AISystem for world ProjectMap
+[2022.10.22-16.46.53:742][824]LogPlayLevel: PIE: World Init took: (0.010183s)
+[2022.10.22-16.46.53:756][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.22-16.46.53:802][824]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.22-16.46.53:802][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-16.46.53:802][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-16.46.53:802][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-16.46.53:802][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-16.46.53:803][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-16.46.53:803][824]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-16.46.53:803][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-16.46.53:803][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-16.46.53:803][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-16.46.53:804][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-16.46.53:804][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-16.46.53:807][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-16.46.53:911][824]LogAudioMixer: Display: Using Audio Hardware Device Speakers (7.1 Surround Sound)
+[2022.10.22-16.46.53:911][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-16.46.53:912][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-16.46.53:912][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-16.46.53:913][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.22-16.46.53:913][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.10.22-16.46.53:916][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.22-16.46.53:916][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.22-16.46.53:916][824]LogInit: FAudioDevice initialized.
+[2022.10.22-16.46.53:916][824]LogAudio: Display: Audio Device (ID: 2) registered with world 'ProjectMap'.
+[2022.10.22-16.46.54:005][824]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.22-16.46.54:035][824]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap up for play (max tick rate 60) at 2022.10.22-18.46.54
+[2022.10.22-16.46.54:046][824]LogWorld: Bringing up level for play took: 0.040604
+[2022.10.22-16.46.54:062][824]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.10.22-16.46.55:296][824]PIE: Server logged in
+[2022.10.22-16.46.55:296][824]PIE: Play in editor total start time 1.981 seconds.
+[2022.10.22-16.47.34:846][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.47.34:846][394]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.47.34:847][394]LogWorld: UWorld::CleanupWorld for ProjectMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-16.47.34:928][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.47.35:085][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-16.47.35:113][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.47.35:167][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-16.47.35:167][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.22-16.47.35:169][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.22-16.47.35:181][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.47.35:228][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.22-16.47.35:492][395]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.10.22-16.50.11:783][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-16.50.11:795][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-16.50.11:795][948]PIE: New page: PIE session: ProjectMap (22 Oct 2022, 20:50:11)
+[2022.10.22-16.50.11:795][948]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.50.11:886][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090797s)
+[2022.10.22-16.50.11:886][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ProjectMap.ProjectMap to /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap (0.090926s)
+[2022.10.22-16.50.11:886][948]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-16.50.11:887][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-16.50.11:887][948]LogAIModule: Creating AISystem for world ProjectMap
+[2022.10.22-16.50.11:888][948]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2022.10.22-16.50.11:905][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.22-16.50.11:908][948]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.22-16.50.11:908][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-16.50.11:908][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-16.50.11:908][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-16.50.11:908][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-16.50.11:908][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-16.50.11:908][948]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-16.50.11:909][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-16.50.11:909][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-16.50.11:909][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-16.50.11:909][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-16.50.11:909][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-16.50.11:912][948]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-16.50.12:031][948]LogAudioMixer: Display: Using Audio Hardware Device Speakers (7.1 Surround Sound)
+[2022.10.22-16.50.12:031][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-16.50.12:031][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-16.50.12:031][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-16.50.12:032][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.22-16.50.12:032][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2022.10.22-16.50.12:035][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.22-16.50.12:035][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.22-16.50.12:035][948]LogInit: FAudioDevice initialized.
+[2022.10.22-16.50.12:035][948]LogAudio: Display: Audio Device (ID: 3) registered with world 'ProjectMap'.
+[2022.10.22-16.50.12:056][948]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.22-16.50.12:070][948]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap up for play (max tick rate 60) at 2022.10.22-18.50.12
+[2022.10.22-16.50.12:070][948]LogWorld: Bringing up level for play took: 0.014002
+[2022.10.22-16.50.12:073][948]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.10.22-16.50.12:079][948]PIE: Server logged in
+[2022.10.22-16.50.12:080][948]PIE: Play in editor total start time 0.285 seconds.
+[2022.10.22-16.50.28:447][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.50.28:447][165]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.50.28:447][165]LogWorld: UWorld::CleanupWorld for ProjectMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-16.50.28:448][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.50.28:554][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-16.50.28:559][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.50.28:578][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-16.50.28:579][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.22-16.50.28:582][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.22-16.50.28:594][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.50.28:599][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.22-16.50.28:760][166]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.10.22-16.50.29:376][169]LogSlate: Took 0.000548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.22-16.50.54:850][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-16.50.54:862][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-16.50.54:863][720]PIE: New page: PIE session: ProjectMap (22 Oct 2022, 20:50:54)
+[2022.10.22-16.50.54:863][720]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.50.54:956][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093553s)
+[2022.10.22-16.50.54:956][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ProjectMap.ProjectMap to /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap (0.093728s)
+[2022.10.22-16.50.54:957][720]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-16.50.54:957][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-16.50.54:957][720]LogAIModule: Creating AISystem for world ProjectMap
+[2022.10.22-16.50.54:959][720]LogPlayLevel: PIE: World Init took: (0.002127s)
+[2022.10.22-16.50.54:973][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.22-16.50.54:976][720]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.22-16.50.54:976][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-16.50.54:976][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-16.50.54:976][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-16.50.54:976][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-16.50.54:976][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-16.50.54:976][720]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-16.50.54:976][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-16.50.54:976][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-16.50.54:977][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-16.50.54:977][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-16.50.54:977][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-16.50.54:980][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-16.50.55:107][720]LogAudioMixer: Display: Using Audio Hardware Device Speakers (7.1 Surround Sound)
+[2022.10.22-16.50.55:108][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-16.50.55:108][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-16.50.55:108][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-16.50.55:109][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.22-16.50.55:109][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2022.10.22-16.50.55:112][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.22-16.50.55:112][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.22-16.50.55:112][720]LogInit: FAudioDevice initialized.
+[2022.10.22-16.50.55:112][720]LogAudio: Display: Audio Device (ID: 4) registered with world 'ProjectMap'.
+[2022.10.22-16.50.55:130][720]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.22-16.50.55:140][720]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap up for play (max tick rate 60) at 2022.10.22-18.50.55
+[2022.10.22-16.50.55:140][720]LogWorld: Bringing up level for play took: 0.009850
+[2022.10.22-16.50.55:145][720]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.10.22-16.50.55:150][720]PIE: Server logged in
+[2022.10.22-16.50.55:151][720]PIE: Play in editor total start time 0.289 seconds.
+[2022.10.22-16.51.31:705][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.51.31:705][354]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.51.31:706][354]LogWorld: UWorld::CleanupWorld for ProjectMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-16.51.31:706][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.51.31:792][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-16.51.31:796][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.51.31:810][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.51.31:810][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.22-16.51.31:812][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.22-16.51.31:826][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.22-16.51.31:991][355]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.22-16.54.14:411][686]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-16.54.14:423][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-16.54.14:423][686]PIE: New page: PIE session: ProjectMap (22 Oct 2022, 20:54:14)
+[2022.10.22-16.54.14:444][686]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.54.14:538][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094087s)
+[2022.10.22-16.54.14:538][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ProjectMap.ProjectMap to /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap (0.094309s)
+[2022.10.22-16.54.14:538][686]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-16.54.14:539][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-16.54.14:539][686]LogAIModule: Creating AISystem for world ProjectMap
+[2022.10.22-16.54.14:540][686]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2022.10.22-16.54.14:554][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.22-16.54.14:557][686]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.22-16.54.14:557][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-16.54.14:557][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-16.54.14:557][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-16.54.14:557][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-16.54.14:557][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-16.54.14:557][686]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-16.54.14:557][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-16.54.14:557][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-16.54.14:558][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-16.54.14:558][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-16.54.14:558][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-16.54.14:561][686]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-16.54.14:679][686]LogAudioMixer: Display: Using Audio Hardware Device Speakers (7.1 Surround Sound)
+[2022.10.22-16.54.14:680][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-16.54.14:680][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-16.54.14:680][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-16.54.14:680][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.10.22-16.54.14:681][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2022.10.22-16.54.14:683][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.10.22-16.54.14:683][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.10.22-16.54.14:683][686]LogInit: FAudioDevice initialized.
+[2022.10.22-16.54.14:683][686]LogAudio: Display: Audio Device (ID: 5) registered with world 'ProjectMap'.
+[2022.10.22-16.54.14:725][686]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.22-16.54.14:733][686]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap up for play (max tick rate 60) at 2022.10.22-18.54.14
+[2022.10.22-16.54.14:734][686]LogWorld: Bringing up level for play took: 0.008982
+[2022.10.22-16.54.14:737][686]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.10.22-16.54.14:742][686]PIE: Server logged in
+[2022.10.22-16.54.14:744][686]PIE: Play in editor total start time 0.321 seconds.
+[2022.10.22-16.55.26:815][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.55.26:816][197]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-16.55.26:816][197]LogWorld: UWorld::CleanupWorld for ProjectMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-16.55.26:817][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.55.26:893][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-16.55.26:897][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-16.55.26:910][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-16.55.26:910][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.22-16.55.26:913][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.22-16.55.26:921][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-16.55.26:926][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.22-16.55.27:129][198]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.22-16.57.35:471][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/ProjectMap" FILE="../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ProjectMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-16.57.35:485][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.22-16.57.35:888][272]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ProjectMap
+[2022.10.22-16.57.35:889][272]LogSavePackage: Moving '../../../../../../UE5 Projects/CowProject/Saved/ProjectMapC71046224D47D485FEE7B6AC46C34227.tmp' to '../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ProjectMap.umap'
+[2022.10.22-16.57.35:906][272]LogFileHelpers: No new changes to save!
+[2022.10.22-16.57.35:947][272]AssetCheck: New page: Asset Save: ProjectMap
+[2022.10.22-16.57.35:947][272]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ProjectMap.ProjectMap
+[2022.10.22-16.58.48:795][910]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.10.22-16.58.52:961][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.10.22-16.58.52:984][988]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.10.22-17.01.03:207][802]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-17.02.47:876][109]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-17.02.47:885][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-17.02.47:886][109]PIE: New page: PIE session: ProjectMap (22 Oct 2022, 21:02:47)
+[2022.10.22-17.02.47:886][109]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-17.02.47:982][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096391s)
+[2022.10.22-17.02.47:982][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ProjectMap.ProjectMap to /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap (0.096540s)
+[2022.10.22-17.02.47:982][109]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-17.02.47:983][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-17.02.47:983][109]LogAIModule: Creating AISystem for world ProjectMap
+[2022.10.22-17.02.47:984][109]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2022.10.22-17.02.47:998][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.22-17.02.48:001][109]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.22-17.02.48:001][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-17.02.48:001][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-17.02.48:001][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-17.02.48:001][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-17.02.48:002][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-17.02.48:002][109]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-17.02.48:002][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-17.02.48:002][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-17.02.48:002][109]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-17.02.48:002][109]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-17.02.48:002][109]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-17.02.48:005][109]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-17.02.48:154][109]LogAudioMixer: Display: Using Audio Hardware Device Speakers (7.1 Surround Sound)
+[2022.10.22-17.02.48:155][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-17.02.48:155][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-17.02.48:155][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-17.02.48:157][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.10.22-17.02.48:157][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2022.10.22-17.02.48:161][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.10.22-17.02.48:161][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.10.22-17.02.48:161][109]LogInit: FAudioDevice initialized.
+[2022.10.22-17.02.48:161][109]LogAudio: Display: Audio Device (ID: 6) registered with world 'ProjectMap'.
+[2022.10.22-17.02.48:188][109]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.22-17.02.48:203][109]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap.ProjectMap up for play (max tick rate 60) at 2022.10.22-19.02.48
+[2022.10.22-17.02.48:204][109]LogWorld: Bringing up level for play took: 0.015119
+[2022.10.22-17.02.48:209][109]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.10.22-17.02.48:216][109]PIE: Server logged in
+[2022.10.22-17.02.48:217][109]PIE: Play in editor total start time 0.332 seconds.
+[2022.10.22-17.03.21:995][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-17.03.21:995][730]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ProjectMap
+[2022.10.22-17.03.21:995][730]LogWorld: UWorld::CleanupWorld for ProjectMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-17.03.21:996][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-17.03.22:087][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-17.03.22:090][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-17.03.22:106][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-17.03.22:106][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.22-17.03.22:109][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.22-17.03.22:123][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-17.03.22:126][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.22-17.03.22:196][731]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.10.22-17.03.35:871][977]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.10.22-17.03.39:927][ 48]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.10.22-17.05.11:432][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/ProjectMap" FILE="../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ProjectMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.22-17.05.11:448][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.22-17.05.11:805][ 33]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ProjectMap
+[2022.10.22-17.05.11:808][ 33]LogSavePackage: Moving '../../../../../../UE5 Projects/CowProject/Saved/ProjectMap8057E62F41C5AF5A56C66596FE4A7CA6.tmp' to '../../../../../../UE5 Projects/CowProject/Content/ThirdPerson/Maps/ProjectMap.umap'
+[2022.10.22-17.05.11:824][ 33]LogFileHelpers: No new changes to save!
+[2022.10.22-17.05.11:844][ 33]AssetCheck: New page: Asset Save: ProjectMap
+[2022.10.22-17.05.11:844][ 33]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/ProjectMap.ProjectMap
+[2022.10.22-17.05.41:561][706]Cmd: TRANSACTION UNDO
+[2022.10.22-17.05.41:911][706]LogEditorTransaction: Undo Foliage Editing
+[2022.10.22-17.05.43:092][721]Cmd: TRANSACTION UNDO
+[2022.10.22-17.05.43:092][721]LogEditorTransaction: Undo Foliage Editing
+[2022.10.22-17.05.43:248][721]Cmd: TRANSACTION UNDO
+[2022.10.22-17.05.43:248][721]LogEditorTransaction: Undo Edit Min
+[2022.10.22-17.05.43:421][723]Cmd: TRANSACTION UNDO
+[2022.10.22-17.05.43:421][723]LogEditorTransaction: Undo Edit Align to Normal
+[2022.10.22-17.05.43:903][735]Cmd: TRANSACTION UNDO
+[2022.10.22-17.05.43:903][735]LogEditorTransaction: Undo Foliage Editing
+[2022.10.22-17.05.44:154][736]Cmd: TRANSACTION UNDO
+[2022.10.22-17.05.44:154][736]LogEditorTransaction: Undo Foliage Editing
+[2022.10.22-17.05.53:174][905]LogSlate: Window 'Message' being destroyed
+[2022.10.22-17.05.53:185][905]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to remove 51 instances?
+[2022.10.22-17.06.50:482][329]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-17.07.41:950][482]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-17.08.41:716][830]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-17.09.15:796][931]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-17.10.40:435][180]LogDirectoryWatcher: Display: A directory notification failed for 'D:/UE5 Projects/CowProject/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.22-17.10.40:760][181]LogDirectoryWatcher: Display: A directory notification failed for 'D:/UE5 Projects/CowProject/Content/Developers/JoshuaVeydarier/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.22-17.10.40:760][181]LogDirectoryWatcher: Display: A directory notification failed for 'D:/UE5 Projects/CowProject/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.22-17.13.02:666][714]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.22-17.13.35:282][204]LogTexture: Display: Building textures: /Game/QuadrapedCreatures/MountainDragon/Textures/T_MOUNTAIN_DRAGON_ILLUM.T_MOUNTAIN_DRAGON_ILLUM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.10.22-17.13.35:282][204]LogMaterial: Display: Missing cached shadermap for M_MOUNTAIN_DRAGON in PCD3D_SM5, Default, SM5 (DDC key hash: D9233839A8744C0764E64B817257AB85E16ABBA9), compiling. 
+[2022.10.22-17.13.35:949][204]LogTexture: Display: Building textures: /Game/QuadrapedCreatures/MountainDragon/Textures/T_MOUNTAIN_DRAGON_AO.T_MOUNTAIN_DRAGON_AO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-17.13.36:135][204]LogTexture: Display: Building textures: /Game/QuadrapedCreatures/MountainDragon/Textures/T_MOUNTAIN_DRAGON_ALBEDO.T_MOUNTAIN_DRAGON_ALBEDO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-17.13.36:691][220]LogTexture: Display: Building textures: /Game/QuadrapedCreatures/MountainDragon/Textures/T_MOUNTAIN_DRAGON_NRM.T_MOUNTAIN_DRAGON_NRM (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-17.13.41:250][307]LogSkeletalMesh: Building Skeletal Mesh SK_MOUNTAIN_DRAGON...
+[2022.10.22-17.13.41:361][310]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/QuadrapedCreatures/MountainDragon/Meshes/SK_MOUNTAIN_DRAGON.SK_MOUNTAIN_DRAGON
+[2022.10.22-17.13.42:204][331]LogTexture: Display: Building textures: /Game/QuadrapedCreatures/MountainDragon/Textures/T_MOUNTAIN_DRAGON_RoughnessSpecularMetallic.T_MOUNTAIN_DRAGON_RoughnessSpecularMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-17.14.05:841][872]LogShaderCompilers: Display: ================================================
+[2022.10.22-17.14.05:841][872]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-17.14.05:841][872]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2022.10.22-17.14.05:846][872]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 4 distinct outputs (80.00%)
+[2022.10.22-17.14.05:846][872]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2022.10.22-17.14.05:846][872]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-17.14.05:846][872]LogShaderCompilers: Display: Shaders Compiled: 32
+[2022.10.22-17.14.05:846][872]LogShaderCompilers: Display: Jobs assigned 32, completed 5 (15.62%)
+[2022.10.22-17.14.05:866][872]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Job execution time: average 29.54 s, max 29.54 s
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Job life time (pending + execution): average 29.64 s, max 29.64
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.64 s
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 8.00 jobs/batch
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Average processing rate: 0.17 jobs/sec
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Effective parallelization: 0.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 3.73 sec, max 3.73 sec, min 3.73 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.44 sec, max 3.44 sec, min 3.44 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.22 sec, max 2.22 sec, min 2.22 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 23.70% of total time (compiled    1 times, average 3.73 sec, max 3.73 sec, min 3.73 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 23.15% of total time (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 21.87% of total time (compiled    1 times, average 3.44 sec, max 3.44 sec, min 3.44 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 17.20% of total time (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 14.08% of total time (compiled    1 times, average 2.22 sec, max 2.22 sec, min 2.22 sec)
+[2022.10.22-17.14.05:867][872]LogShaderCompilers: Display: ================================================
+[2022.10.22-17.14.09:737][956]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-17.14.09:737][956]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-17.14.29:494][ 99]LogSlate: Window 'New Physics Asset' being destroyed
+[2022.10.22-17.14.29:861][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-17.14.29:926][ 99]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-17.14.29:950][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-17.14.30:084][ 99]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/QuadrapedCreatures/MountainDragon/Meshes/SK_MOUNTAIN_DRAGON_Physics.SK_MOUNTAIN_DRAGON_Physics
+[2022.10.22-17.14.30:280][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-17.14.30:736][ 99]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.10.22-17.14.31:336][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
